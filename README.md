@@ -1,1 +1,1 @@
-# TypeScript To-Do List (TypeScript + React + Bootstrap)
+# Simple React To-Do List on TypeScript (TypeScript + React + Bootstrap)
